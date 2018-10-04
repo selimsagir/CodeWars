@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538423590 source:c:\users\selim\desktop\codeblock_dosya\twotoone\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
