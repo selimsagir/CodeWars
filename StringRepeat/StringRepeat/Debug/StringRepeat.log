@@ -1,0 +1,3 @@
+﻿  Main.c
+c:\users\selim\source\repos\stringrepeat\stringrepeat\main.c(18): warning C4018: '<': signed/unsigned mismatch
+  StringRepeat.vcxproj -> C:\Users\selim\source\repos\StringRepeat\Debug\StringRepeat.exe

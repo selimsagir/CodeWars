@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\selim\source\repos\test2\test2\main.c(13): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+  test2.vcxproj -> C:\Users\selim\source\repos\test2\Debug\test2.exe
