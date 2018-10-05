@@ -1,0 +1,5 @@
+﻿  main.c
+c:\users\selim\source\repos\pointer_try\pointer_try\main.c(9): warning C4013: 'deneme' undefined; assuming extern returning int
+c:\users\selim\source\repos\pointer_try\pointer_try\main.c(6): warning C4047: 'initializing': 'int *' differs in levels of indirection from 'int'
+c:\users\selim\source\repos\pointer_try\pointer_try\main.c(22): warning C4716: 'deneme': must return a value
+  Pointer_try.vcxproj -> C:\Users\selim\source\repos\Pointer_try\Debug\Pointer_try.exe

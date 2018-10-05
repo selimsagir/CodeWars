@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\selim\source\repos\reversestring\reversestring\main.c(26): warning C4090: 'initializing': different 'const' qualifiers
+c:\users\selim\source\repos\reversestring\reversestring\main.c(68): warning C4098: 'main': 'void' function returning a value
+c:\users\selim\source\repos\reversestring\reversestring\main.c(63): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
+c:\users\selim\source\repos\reversestring\reversestring\main.c(42): warning C4716: 'reverse_letter': must return a value
+  ReverseString.vcxproj -> C:\Users\selim\source\repos\ReverseString\Debug\ReverseString.exe
